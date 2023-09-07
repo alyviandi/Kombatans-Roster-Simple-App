@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Kombatans</string>
+
+    <string name="heroes_name">Kombatans</string>
+    <string name="description">Desc</string>
+    <string name="nickname">Nick</string>
+    <string name="bounty">bounty</string>
+    <string-array name="data_name">
+        <item>Baraka</item>
+        <item>Erron Black</item>
+        <item>Jade</item>
+        <item>Kabal</item>
+        <item>Kitana</item>
+        <item>Kung Lao</item>
+        <item>Liu Kang</item>
+        <item>Raiden</item>
+        <item>Scorpion</item>
+        <item>Shao Khan</item>
+        <item>Sub Zero</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>War Chief of the nomadic Tarkatan tribe, a carnivorous people considered subhuman by the Outworld Empire. Baraka dutifully serves Shao Kahn to preserve his tribe’s way of life, who roam the harsh Wastelands, meat carts in tow, consuming everything and everyone in their path.</item>
+        <item>The best shot in Texas left home to seek adventure and excitement in Outworld with Kano and the Black Dragon. Outworld turned out to be the playground of Erron’s ultraviolent dreams. He decided to make his home there as the deadliest outlander in Outworld.</item>
+        <item>Stealth assassin and Imperial Bodyguard. Jade’s family traded her to Shao Kahn as a child. Though he was the only "parent" and master she ever knew, Jade refused his orders to kill her closest friend, Kitana. The Emperor turned against Jade. Now she vows to end his reign.</item>
+        <item>Fleet-footed Black Dragon enforcer. Kabal’s sprinting speed is only outpaced by his greed. He was a rookie cop until Kano tempted him to sell out his police department for cash money and a spot in the Black Dragon. Kabal has run down anyone who\'s crossed Kano ever since.</item>
+        <item>10,000-year-old assassin and Princess of Outworld. Shao Kahn married Kitana’s mother and raised Kitana as his loyal heir, concealing the truth that he murdered her father to conquer Edenia. Now that this truth is out, Kitana is on a quest to avenge her father’s name.</item>
+        <item>Shaolin monk and descendant of Great Kung Lao. The younger Kung Lao claimed his greatness by beating the deadly alliance of Shang Tsung and Quan Chi in Mortal Kombat. Reckless and rebellious, but courageous and indomitable, Kung Lao fights to prove worthy of his glorious ancestors.</item>
+        <item>Shaolin monk and Champion of Earthrealm. Liu Kang was an orphan adopted and trained in the arts of kombat by the Shaolin order. He honored them by defeating Shang Tsung in Mortal Kombat and saving Earthrealm as "the Chosen One," a title that weighs heavy on his shoulders.</item>
+        <item>Immortal God of Thunder, Protector of Earthrealm. Raiden has saved Earthrealm time and again by rallying the bravest and strongest warriors of the day to defend it. After centuries of kombat and bloodshed, he fears unintended consequences for humanity, and himself.</item>
+        <item>Grandmaster Scorpion of the Shirai Ryu. Driven by rage, Hanzo Hasashi went through Hell and back to avenge his family and clan, never resting until he cut down their murderer, Quan Chi. Now he leads a reborn Shirai Ryu, avenging those who cannot avenge themselves.</item>
+        <item>Emperor of Outworld. For millennia, Shao Kahn dominated the realms, rapidly expanding his Empire by conquest. But when he set out to claim Earthrealm, he was blocked by the rules of Mortal Kombat. Deterred but determined, Shao Kahn demands absolute victory.</item>
+        <item>Grandmaster of the Lin Kuei clan. Kuai Liang beat death to redeem his clan for the evil committed by Sektor and the Cyber Lin Kuei. He rebuilt the Lin Kuei and brokered peace with their Shirai Ryu rivals. Now, he hopes to finally close the book on sins of Lin Kuei past.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/baraka</item>
+        <item>@drawable/erron</item>
+        <item>@drawable/jade</item>
+        <item>@drawable/kabal</item>
+        <item>@drawable/kitana</item>
+        <item>@drawable/kung_lao</item>
+        <item>@drawable/liu_kang</item>
+        <item>@drawable/raiden</item>
+        <item>@drawable/scorpion</item>
+        <item>@drawable/shao_khan</item>
+        <item>@drawable/sub_zero</item>
+    </integer-array>
+    <string-array name="data_nickname">
+        <item>Blade Biter</item>
+        <item>The Gunslinger</item>
+        <item>Emerald Assassin</item>
+        <item>Speedster</item>
+        <item>Fan Princess</item>
+        <item>Hat Trickster</item>
+        <item>Dragon Warrior</item>
+        <item>Thunder God</item>
+        <item>Hellspawn</item>
+        <item>Conqueror</item>
+        <item>Ice Ninja</item>
+    </string-array>
+    <string-array name="data_bounty">
+        <item>10,000 koins</item>
+        <item>15,000 koins</item>
+        <item>12,000 koins</item>
+        <item>14,000 koins</item>
+        <item>13,000 koins</item>
+        <item>11,000 koins</item>
+        <item>16,000 koins</item>
+        <item>18,000 koins</item>
+        <item>20,000 koins</item>
+        <item>25,000 koins</item>
+        <item>17,000 koins</item>
+    </string-array>
+</resources>
